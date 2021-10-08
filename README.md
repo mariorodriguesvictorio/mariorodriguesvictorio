@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariorodriguesvictorio
 - 👀 I’m interested in WebSecurity, Bug hunting, Artificial Intelligence, Computer Science, Physics, Math; 
 - 🌱 I’m currently learning Python, Social learning, Operational systems, fundamentals of Computer Science, ...
-- 💞️ I’m looking to collaborate on Python projects or Web development with JavaScript, Html, Css;
+- 💞️ I’m looking to collaborate on Python projects and Web development;
 - 📫 How to reach me: Instagram(@mariorodriguesvictorio);
 
 <!---
