@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariorodriguesvictorio
 - 👀 I’m interested in WebSecurity, Bug hunting, Artificial Intelligence, Computer Science, applied Physics, Math, Phylosophy, Theories envolving Physics and Math. Do you like any of these topics? If yes, give me a DM on my instagram with " y " and a topic of your choice inside of this symbol (), like this following example: y (Physics theories). So, lets have a great discussion about one of the theories of Physics \o/
-- 🌱 I’m currently learning Python, Social learning, Operational systems, fundamentals of Computer Science, ...
+- 🌱 I’m currently learning Python, Social learning, Operational systems, JavaScript, React, NodeJS, Data bases, Math and Physics applied to programming, Critical thinking focused on problem-solving for programming, how can programming help me in Marketing?, Mindset, emotional intelligence, Psycology coupled with programming, productivity and programming logic. 
 - 💞️ I’m looking to collaborate on Python projects and Web development;
 - 📫 How to reach me: Instagram(@mariorodriguesvictorio);
 
